@@ -14,3 +14,6 @@ Proper **EDA** has been performed for the total number of cases, deaths and reco
 
 ## **Screenshots**
 
+![newplot](https://user-images.githubusercontent.com/49313619/85155458-68103880-b276-11ea-9022-1faa276b80bf.png)
+![Map](https://user-images.githubusercontent.com/49313619/85155533-7e1df900-b276-11ea-9d77-0db3ad57d763.png)
+![Prediction India](https://user-images.githubusercontent.com/49313619/85155488-70687380-b276-11ea-8288-50524e13deb6.png)
